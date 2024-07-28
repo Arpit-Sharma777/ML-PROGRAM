@@ -1,7 +1,7 @@
 #4.Load and Explore datasets (sample_data csv & sample_data.xlsx data sets)
 
-file download = https://drive.google.com/file/d/1iyv2x5lXKrb6uUzYUO6zY0K3q4I7_4Av/view?usp=sharing
-
+csv file download = https://drive.google.com/file/d/1iyv2x5lXKrb6uUzYUO6zY0K3q4I7_4Av/view?usp=sharing
+excel file download = https://docs.google.com/spreadsheets/d/1vsD8jRBym10-EaJCkKB71ZG7eEJnEAgp/edit?usp=sharing&ouid=110708829562479262129&rtpof=true&sd=true
 import pandas as pd
 # Define the file paths
 csv_file_path = '/content/sample_data.csv' 
